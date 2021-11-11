@@ -8,7 +8,6 @@ bot.start((ctx) => ctx.reply('Welcome')); //ответ бота на коман�
 bot.help((ctx) => ctx.reply('Send a Asana token')); //ответ бота на команду /help
 
 bot.command(setTokenCommand, ctx => {
-
     let reply = 'Thank you! Token has been saved!';
 
     if (ctx.message.text.split(`/${setTokenCommand} `)[1]) {
