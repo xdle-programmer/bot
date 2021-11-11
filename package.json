@@ -1,0 +1,14 @@
+{
+  "name": "TelegramToAsana",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nik & Yury <vedutenkonikita149@gmail.com, yury.inform@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "telegraf": "^3.38.0"
+  }
+}
