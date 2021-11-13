@@ -9,6 +9,9 @@
   "author": "Nik & Yury <vedutenkonikita149@gmail.com, yury.inform@gmail.com>",
   "license": "ISC",
   "dependencies": {
+    "asana": "^0.18.6",
+    "asana-api": "^1.0.0",
+    "asana-api-oauth": "^1.0.1",
     "telegraf": "^3.38.0"
   }
 }
